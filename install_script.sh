@@ -3,7 +3,7 @@
 set -Eeuo pipefail
 IFS=$'\n\t'
 
-REPO_URL="https://github.com/arespawn/WhatsAppToDiscord.git"
+REPO_URL="https://github.com/stoneddawg/WhatsAppToDiscord.git"
 REPO_HINT="arespawn/WhatsAppToDiscord"
 NODE_MAJOR_REQUIRED=24
 INSTALL_DIR="WhatsAppToDiscord"
